@@ -1,0 +1,7 @@
+wn_hub_cities_paris_right.png
+size:2048,2048
+filter:Linear,Linear
+paris_1
+bounds:2,2,1628,1776
+paris_2
+bounds:1632,1350,300,428

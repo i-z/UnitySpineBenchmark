@@ -1,0 +1,11 @@
+san_francisco_left.png
+size:2048,2048
+filter:Linear,Linear
+sf_right
+bounds:2,2,1625,1616
+train_sf_right
+bounds:1629,1300,318,253
+rotate:90
+train_sf_right_y
+bounds:1629,980,318,253
+rotate:90

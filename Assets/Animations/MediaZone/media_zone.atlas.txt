@@ -1,0 +1,16 @@
+media_zone.png
+size:2048,1024
+filter:Linear,Linear
+cash
+bounds:951,699,247,300
+glow
+bounds:951,9,46,64
+heart
+bounds:951,240,189,208
+like
+bounds:951,450,208,247
+wifi
+bounds:951,75,135,163
+zone
+bounds:2,2,997,947
+rotate:90

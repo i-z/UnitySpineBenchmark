@@ -1,0 +1,16 @@
+wn_hub_amsterdam.png
+size:2048,2048
+filter:Linear,Linear
+am_cloud
+bounds:2,1552,281,245
+am_patch
+bounds:2,2,1138,963
+am_rotation
+bounds:285,967,830,831
+rotate:90
+
+wn_hub_amsterdam_2.png
+size:2048,2048
+filter:Linear,Linear
+am_bottom
+bounds:2,2,1582,1264
